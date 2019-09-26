@@ -1,0 +1,2 @@
+gcc main.c -o mqtt_exemplo -lpaho-mqtt3c -Wall
+./mqtt_exemplo
